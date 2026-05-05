@@ -114,9 +114,17 @@ http://127.0.0.1:5000
 
 ---
 
-## Live 
+## Live Demo
+
+CloudShield is deployed and accessible online:
 
 https://cloud-shield-threat-detection.onrender.com/
+
+You can:
+- Register users
+- Upload files
+- Generate secure signatures
+- Detect activity as normal or attack
 
 ---
 
